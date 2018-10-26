@@ -3,6 +3,8 @@ package test;
 public class MemberVo {
 	private String no;
 	private String age;
+	
+	public MemberVo(){}
 	public String getNo() {
 		return no;
 	}
