@@ -6,6 +6,11 @@ public class MemberVo {
 	public String getNo() {
 		return no;
 	}
+	public MemberVo(String no, String age) {
+		super();
+		this.no = no;
+		this.age = age;
+	}
 	public void setNo(String no) {
 		this.no = no;
 	}
