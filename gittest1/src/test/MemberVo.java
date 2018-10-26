@@ -13,6 +13,8 @@ public class MemberVo {
 		this.no = no;
 		this.age = age;
 	}
+	
+	
 	public void setNo(String no) {
 		this.no = no;
 	}
