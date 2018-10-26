@@ -5,6 +5,7 @@ public class MemberVo {
 	private String age;
 	
 	public MemberVo(){}
+	
 	public String getNo() {
 		return no;
 	}
